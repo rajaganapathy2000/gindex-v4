@@ -6,7 +6,8 @@ module.exports = async () => {
     const result = resp.data.filter(releases =>{
       return frontendRegex.test(releases.tag_name);
     })[0].tag_name
-return axios.get(`https://raw.githubusercontent.com/rajaganapathy2000/gindex-v4/${result}/worker/index.js`).then(resp => {      replacedVersion = result.replace(/^(frontend-)/, '')
+    return axios.get(`https://raw.githubusercontent.com/rajaganapathy2000/gindex-v4/${result}/worker/index.js`).then(resp => {
+      replacedVersion = result.replace(/^(frontend-)/, '')
       return {
         version: result,
         verNumber: replacedVersion,

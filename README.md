@@ -38,7 +38,7 @@ You can Use Our CLI Tool to Deploy Your Backend With Ease.
 ```
 
 * Follow the On-screen Instructions to Deploy the Backend.
-* [Click here for Help Related to All the Environment Variables that needs to be setted up.](https://github.com/rajaganapathy2000/gindex-v4/wiki/ackend-envirnment-variables).
+* Enter a unique app name when Prompted. This will come before herokuapp.com, `Example: https://sample.herokuapp.com`
 * [Click here for Help Related to All the Environment Variables that needs to be setted up.](https://github.com/rajaganapathy2000/gindex-v4/wiki/backend-envirnment-variables).
 
 ## What is GD Index ?
@@ -58,7 +58,7 @@ You can Visit the Releases folder in the Repo for All the Local Development Zips
 **Now With New UI**<br>
 ![Refreshing New Home Look](https://github.com/rajaganapathy2000/gindex-v4/blob/dark-mode-0-1/imgs/home.png?raw=true)<br>
 ![Refreshing New Home Look](https://github.com/rajaganapathy2000/gindex-v4/blob/dark-mode-0-1/imgs/home2.png?raw=true)<br>
-61: ![Refreshing New Home Look](https://github.com/rajaganapathy2000/gindex-v4/blob/dark-mode-0-1/imgs/home-nolog.png?raw=true)<br>
+![Refreshing New Home Look](https://github.com/rajaganapathy2000/gindex-v4/blob/dark-mode-0-1/imgs/home-nolog.png?raw=true)<br>
 
 **Important** - _This Site Requires My GIndex Live Backend Server to be Running Otherwise the Site will Never Open._
 
